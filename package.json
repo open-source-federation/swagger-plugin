@@ -1,0 +1,19 @@
+{
+  "name": "swagger-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-source-federation/swagger-plugin.git"
+  },
+  "author": "VireshMahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/open-source-federation/swagger-plugin/issues"
+  },
+  "homepage": "https://github.com/open-source-federation/swagger-plugin#readme"
+}
